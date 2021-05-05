@@ -1,0 +1,26 @@
+crear cuenta github 
+portafolio del curso (instrucciones) 
+un arreglo: 
+Primer numero del indice=0 ultimo=N-1
+Investigar que son las funciones y procedimientos en
+programacion (tarea 2 ejemplo de cada uno) 
+
+Pseint (programa para hacer ejemplos)
+
+las funcion es una accion que retornan un valor a 
+quienes llamen a esa funcion. 
+
+Los Procedimientos no retonar valor, osea ejecutan una 
+accion o procedimiento especifico sin retorno de valor.
+
+para que sirven para dividir el codigo, hacerlo mas ordenado
+y detectar las fallas de forma mas rapida, sin tener que
+revisar todo el codigo. osea lo hace mas escalable, robusto
+y ordenado 
+
+JAVA, lenguaje de programacion, multiplataforma, se puede 
+ejecutar en cualquier sistema operativo, 
+
+Instalacion Eclipe con paquete Java JDK
+
+ 
