@@ -1,0 +1,40 @@
+tipos de datos 
+Float, int, boleaanos, char
+double, string 
+
+tipos de datos en JAVA con Kevin Pasen Smith
+Segun TABLA ECXEL
+
+DATOS EN JAVA							
+TIPOS PRIMITIVO				TIPOS OBJETO			
+(sin métodos; no son objetos; no necesitan una invocación para ser creados)				(con métodos, necesitan una invocación para ser creados)			
+NOMBRE	TIPO	OCUPA	RANGO APROXIMADO	Nombre	TIPO		
+byte	Entero	1 byte	-128 a 127	Tipos de la biblioteca estándar de Java	String (cadenas de texto)		
+short	Entero	2 bytes	-32768 a 32767		Muchos otros (p.ej. Scanner, TreeSet, ArrayList…)		
+int	Entero	4 bytes	2*109	Tipos definidos por el programador / usuario	Cualquiera que se nos ocurra, por ejemplo Taxi, Autobus, Tranvia		
+long	Entero	8 bytes	Muy grande	arrays	Serie de elementos o formación tipo vector o matriz. Lo consideraremos un objeto especial que carece de métodos.		
+float	Decimal simple	4 bytes	Muy grande	Tipos envoltorio o wrapper (Equivalentes a los tipos primitivos pero como objetos.)	Byte		
+double	Decimal doble	8 bytes	Muy grande		Short		
+char	Carácter simple	2 bytes	---		Integer		
+boolean	Valor true o false	1 byte	---		Long		
+					Float		
+					Double		
+					Character		
+					Boolean		
+
+en programacion la primera palabra comienza con minuscula
+y la segunda palabra con mayus las dos juntas 
+esto se conoce como camalcase
+
+clases y objetos com mayuscula la primera letra
+interger.parseInt se usa para transformar un string (letra)
+ en short (numero)
+los parentesis son importantes () y se leen de izquierda a derecha
+los string son "clase" tipo letras 
+los short son "clase" tipo numero
+
+hacer una aplicación que pida 3 numeros al usuario y 
+luego los muestre de menor a mayor y de mayor a menor
+ 
+
+
