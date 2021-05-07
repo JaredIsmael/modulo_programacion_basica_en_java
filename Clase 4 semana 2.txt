@@ -1,0 +1,32 @@
+Operador	Significado	Ejemplo
+Operadores aritméticos
++	Suma	a + b
+-	Resta	a - b
+*	Multiplicación	a * b
+/	División	a / b
+%	Módulo	a % b
+Operadores de asignación
+=	Asignación	a = b
++=	Suma y asignación	a += b (a=a + b)
+-=	Resta y asignación	a -= b (a=a - b)
+*=	Multiplicación y asignación	a *= b (a=a * b)
+/=	División y asignación	a / b (a=a / b)
+%=	Módulo y asignación	a % b (a=a % b)
+Operadores relacionales
+==	Igualdad	a == b
+!=	Distinto	a != b
+<	Menor que	a < b
+>	Mayor que	a > b
+<=	Menor o igual que	a <= b
+>=	Mayor o igual que	a >= b
+Operadores especiales
+++	Incremento	a++ (postincremento)
+++a   (preincremento)
+--	Decremento	a-- (postdecremento)
+--a  (predecremento)
+(tipo)expr	Cast	a = (int) b
++	Concatenación de cadenas	a = "cad1" + "cad2"
+.	Acceso a variables y métodos	a = obj.var1
+( )	Agrupación de expresiones	a = (a + b) * c
+
+Repasar clase problemas de conexion 
